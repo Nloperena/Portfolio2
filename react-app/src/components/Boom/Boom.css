@@ -1,0 +1,59 @@
+#content{
+    font-family: 'Aldrich', sans-serif;
+    background-image: url("../../media/Icons/cap.png");
+    background-position: 3rem;
+    margin-top:2rem;
+    background-color:#04B1C2;
+    border:solid;
+    border-color:white;
+    border-radius:1rem;
+    height:auto;
+}
+
+#portfolio-page {
+    text-align: center;
+    position: relative;
+    margin-left: 9rem;
+}
+
+#boombox{
+    width: 7rem;
+    height: 7rem;
+    bottom: -10rem;
+    margin-bottom: 0rem;
+    POSITION: relative;
+}
+
+#board2{
+    height:3rem;
+}
+
+.board {
+    position: relative;
+    color: white;
+    margin: 2rem;
+    font-size: 1.2rem;
+    border-radius: 2rem;
+    border: solid;
+    opacity: 0.95;
+    box-shadow: -1px 15px 2px -1px rgba(0, 0, 0, .8);
+}
+
+.yeet {
+    margin-left: 1.4rem;
+}
+
+#in-box {
+    background-color:white;
+    border: solid;
+    border-radius:1rem;
+    margin-left:10rem;
+    width:90%;
+    position: relative;
+    margin-bottom:3rem;
+    bottom:5rem;
+    opacity: 0.9;
+}
+#row-adjustment{
+    margin: 3rem;
+}
