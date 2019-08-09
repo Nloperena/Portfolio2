@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio2/static/css/main.6f5e4b58.chunk.css",
+    "main.js": "/Portfolio2/static/js/main.90805bf6.chunk.js",
+    "main.js.map": "/Portfolio2/static/js/main.90805bf6.chunk.js.map",
+    "runtime~main.js": "/Portfolio2/static/js/runtime~main.32625e0a.js",
+    "runtime~main.js.map": "/Portfolio2/static/js/runtime~main.32625e0a.js.map",
+    "static/js/2.ca4ee930.chunk.js": "/Portfolio2/static/js/2.ca4ee930.chunk.js",
+    "static/js/2.ca4ee930.chunk.js.map": "/Portfolio2/static/js/2.ca4ee930.chunk.js.map",
+    "index.html": "/Portfolio2/index.html",
+    "precache-manifest.352cf168efc36f9cedf852e6c53c74bb.js": "/Portfolio2/precache-manifest.352cf168efc36f9cedf852e6c53c74bb.js",
+    "service-worker.js": "/Portfolio2/service-worker.js",
+    "static/css/main.6f5e4b58.chunk.css.map": "/Portfolio2/static/css/main.6f5e4b58.chunk.css.map",
+    "static/media/Nico.png": "/Portfolio2/static/media/Nico.4d13370f.png",
+    "static/media/Shiba.gif": "/Portfolio2/static/media/Shiba.8288f480.gif",
+    "static/media/Stars.mp4": "/Portfolio2/static/media/Stars.666c4c7f.mp4",
+    "static/media/App.css": "/Portfolio2/static/media/aron-visuals-LSFuPFE9vKE-unsplash.ec2d28bc.jpg",
+    "static/media/Boom.css": "/Portfolio2/static/media/cap.525e03e5.png",
+    "static/media/woodpanels.jpg": "/Portfolio2/static/media/woodpanels.6ee40821.jpg"
+  }
+}
